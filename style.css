@@ -291,7 +291,20 @@ nav ul li a:hover::after{
 .btn:hover{
     background: #ff004f;
 }
-
+.year {
+    font-weight: bold;
+}
+.university {
+    font-size: 18px;
+}
+.degree {
+    font-style: italic;
+    font-size: 16px;
+}
+.minor {
+    font-size: 16px;
+    color: grey;
+}
 /* ---------contact-------- */
 .contact-left{
     flex-basis: 35%;
